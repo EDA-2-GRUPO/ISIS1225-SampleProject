@@ -19,9 +19,8 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  """
-
-import sys
 import config
+import sys
 from DISClib.ADT import list as lt
 from DISClib.DataStructures import listiterator as it
 from App import controller

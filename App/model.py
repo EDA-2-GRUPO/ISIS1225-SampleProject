@@ -82,7 +82,6 @@ def newCatalog():
                                  maptype='CHAINING',
                                  loadfactor=0.7,
                                  comparefunction=compareMapYear)
-
     return catalog
 
 
